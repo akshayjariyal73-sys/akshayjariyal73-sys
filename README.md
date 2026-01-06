@@ -1,4 +1,5 @@
 💫 Hi 👋, I'm Akshay Jariyal
+
  Data Science | Data Analyst | MySQL | Python | PowerBI | Advance Excel
 
 📧 Email Me: ajaries1997@gmail.com for collaboration, projects, or queries 😊
