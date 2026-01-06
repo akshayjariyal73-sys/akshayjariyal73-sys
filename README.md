@@ -1,3 +1,26 @@
+💫 Hi 👋, I'm Akshay Jariyal
+ Data Science | Data Analyst | MySQL | Python | PowerBI | Advance Excel
+
+📧 Email Me: ajaries1997@gmail.com for collaboration, projects, or queries 😊
+
+🔭 Currently working on: Data Analysis & Machine Learning practice projects
+
+🌱 Currently learning: MySQL, NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, Statistics, Machine Learning, NLP, Deep Learning
+​
+
+👯 Open to collaborate on: Data Analysis, Machine Learning, and real-world Data Science projects
+
+🤔 Looking for help with: Data analysis & preprocessing, advanced Machine Learning concepts, and model deployment
+
+💬 Ask me about: Python, Data Analysis, SQL, basic Machine Learning
+
+📫 How to reach me: ajaries1997@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy solving real-world problems using data 📊
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-jariyal-37aa39174) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajaries1997@gmail.com) 
