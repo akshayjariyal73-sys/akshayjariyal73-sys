@@ -44,7 +44,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# Projects:
 
+-<a href="https://github.com/akshayjariyal73-sys/logistics_optimization_for_delivery_routes-_Flipkart_using_sql"> logistics_optimization_for_delivery_routes-_Flipkart_using_sql </a>
+---
 
 
 
