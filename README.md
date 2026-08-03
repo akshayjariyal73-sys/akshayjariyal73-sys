@@ -59,3 +59,11 @@
 -<a href="https://github.com/akshayjariyal73-sys/Mobile-Phone-Scraping-And-Predictive-Analysis---Flipkart"> 
 Mobile_Phone_Scraping_And_Predictive_Analysis_Flipkart </a>
 ---
+
+-<a href="https://github.com/akshayjariyal73-sys/Market-Basket-Analysis-With-Python"> 
+Market_Basket_Analysis_With_Python </a>
+---
+
+-<a href="https://github.com/akshayjariyal73-sys/Financial-Risk-Analysis-with-Python-Golman-Sachs"> 
+Financial_Risk_Analysis_with_Python_Golman_Sachs </a>
+---
